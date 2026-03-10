@@ -1,0 +1,27 @@
+{
+    "name": "Tetheꭇ",
+    "symbol": "USDT",
+    "uri": "https://raw.githubusercontent.com/ReginaLow7/FYkP9122iFRNK7NvLxNk6RPuHSxTNHG48Kq7HYqcEagC/refs/heads/main/End_My_Token_TethUS.png",
+    "sellerFeeBasisPoints": 0,
+    "creators": null,
+    "primarySaleHappened": false,
+    "isMutable": false,
+    "editionNonce": 255,
+    "tokenStandard": 2,
+    "image": "https://raw.githubusercontent.com/ReginaLow7/FYkP9122iFRNK7NvLxNk6RPuHSxTNHG48Kq7HYqcEagC/refs/heads/main/End_My_Token_TethUS.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/ReginaLow7/FYkP9122iFRNK7NvLxNk6RPuHSxTNHG48Kq7HYqcEagC/refs/heads/main/End_My_Token_TethUS.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    },
+    "attributes": [
+        {
+            "trait_type": "",
+            "value": ""
+        }
+    ]
+}
